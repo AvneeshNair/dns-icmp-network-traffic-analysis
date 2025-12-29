@@ -17,7 +17,7 @@ Customers reported being unable to access the website www.yummyrecipesforme.com 
 - The repeated errors indicate the DNS service was unavailable or blocked.
 
 ## Likely Root Cause
-The DNS service was not responding due to a misconfiguration, service outage, or firewall rule blocking UDP port 53.
+The DNS service was not responding due to a misconfiguration, DOS attack, or firewall rule blocking UDP port 53.
 
 ## Skills Demonstrated
 - Network traffic analysis
