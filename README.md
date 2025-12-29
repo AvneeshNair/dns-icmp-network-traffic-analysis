@@ -27,4 +27,4 @@ The DNS service was not responding due to a misconfiguration, DOS attack, or fir
 - Protocol-level reasoning
 
 ## Artifact
-- **Incident Report:** `Cybersecurity-incident-report-network-traffic-analysis.docx`
+- **Incident Report:** `Cybersecurity-incident-report-network-traffic-analysis.pdf`
